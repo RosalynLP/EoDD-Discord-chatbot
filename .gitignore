@@ -75,7 +75,9 @@ docs/_build/
 target/
 
 # Jupyter Notebook
+# ignore them all!
 .ipynb_checkpoints
+*.ipynb
 
 # IPython
 profile_default/
