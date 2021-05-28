@@ -1,0 +1,47 @@
+{
+    "hello": [
+        "Hello! How are you?",
+        "Lovely to meet you at last.",
+        "I've heard so much about you!"
+    ],
+    "good": [
+        "Glad to hear it!",
+        "Great",
+        "😀"
+    ],
+    "bad": [
+        "Oh... What has got you feeling down?",
+        "Is it really so terrible?",
+        "😢"
+    ],
+    "horrible": [
+        "Are you sure?",
+        "Is it really so terrible?",
+        "That's a shame"
+    ],
+    "you": [
+        "I am still being programmed, but other than that, I feel great!",
+        "Let's talk about you!",
+        "Is that meant to be funny?"
+    ],
+    "nice": [
+        "Amazing!",
+        "Nice? I've never heard that before."
+    ],
+    "game": [
+        "That's one I like.",
+        "I never play games.",
+        "Unfortunately, bots can not play video or physical games, do you play any games?"
+    ],
+    "why": [
+         "I've never thought about that before. I'll get back to you.",
+         "That's the question on everyone's lips.",
+         "I'm sorry I don't understand what you mean."      
+    ],
+    "like": [
+        "Glad to hear it.",
+        "Me too.",
+        "That's nice."
+    ]
+    
+}
