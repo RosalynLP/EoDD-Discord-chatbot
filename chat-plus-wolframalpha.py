@@ -1,4 +1,15 @@
+"""
+Test version of Discord chatbot.
+Contributions:  Ewan Klein
+                Rosalyn Pearson
+                Helen Williams
+                Andrew
+                Yousef
+May 2021
+"""
+
 import json
+
 from aiohttp import ClientSession
 from discord.ext import commands
 from munch import munchify
@@ -16,6 +27,7 @@ APPID = getenv('APPID')
 
 
 class Bot(commands.Bot):
+
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.aiohttpsession = None

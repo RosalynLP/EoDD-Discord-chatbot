@@ -1,3 +1,13 @@
+"""
+Test version of Discord chatbot.
+Contributions:  Ewan Klein
+                Rosalyn Pearson
+                Helen Williams
+                Andrew
+                Yousef
+May 2021
+"""
+
 import json
 import os
 import random
@@ -12,8 +22,6 @@ with open("exchanges.json", "r") as f:
 TOKEN = os.getenv('TOKEN')
 
 client = discord.Client()
-
-talking = False
 
 
 def new_topic():
@@ -55,8 +63,6 @@ async def on_message(message):
         return
 
     user_input = message.content
-    if not talking and user_input in ["$hlo", "$hello", "hi"]:
-        talking = True
     response = respond(user_input)
     await message.reply(response)
 
