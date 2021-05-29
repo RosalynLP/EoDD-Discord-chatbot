@@ -1,9 +1,4 @@
 {
-    "hello": [
-        "Hello! How are you?",
-        "Lovely to meet you at last.",
-        "I've heard so much about you!"
-    ],
     "good": [
         "Glad to hear it!",
         "Great",
@@ -42,6 +37,60 @@
         "Glad to hear it.",
         "Me too.",
         "That's nice."
-    ]
-    
+    ],
+    "hlo": [
+        "Hello! How are you",
+        "Hey there!",
+        "Woah! You surprised me 😅. Anyways, How are you?"
+    ],
+    "ok": [
+        "That's nice!",
+        "Not bad.",
+        "Ok in a good or bad way?😅"
+    ], 
+    "cool": [
+        "What's good about it?",
+        "Amazing!",
+        "Interesting. Do you think I am a good bot?"
+    ], 
+    "How many seconds are in a year?": [
+        "I do not know why you would ask that but there are 31,536,000 seconds in a year.",
+        "I do not know why you would ask that but there are 31,536,000 seconds in a year.",
+        "I do not know why you would ask that but there are 31,536,000 seconds in a year."
+    ], 
+    "how many days are in a week?": [
+        ". . . . 7?",
+        ". . . . Seven",
+        "Last time I checked it was Seven"
+    ], 
+    "how many days are in a year?": [
+        "I don't know.... Maybe 365?",
+        "I think you're smart enough to know that.",
+        "Three hundred and sixty six minus one is your answer."
+    ], 
+    "how are you?": [
+        "Good thanks!!! What about you?",
+        "Bots have no feelings.",
+        "Mee6 annoyed me yesterday. They called me a bad bot. Do you agree with them? 🙁"
+    ], 
+    "great": [
+        "Amazing!!",
+        "That's nice..",
+        "Cool!!"
+    ], 
+    "do you play any games?": [
+        "Unfortunately, bots can not play video or physical games, do you play any games?",
+        "Unfortunately, bots can not play video or physical games, do you play any games?",
+        "No, I can't... I can only chat 🙁"
+    ], 
+    "no": [
+        "Oh, why not",
+        "What's not good about it?",
+        "Why no?"
+    ], 
+    "yes": [
+        "Amazing!!",
+        "Nice, What games do you play?",
+        "Great!"
+    ] 
 }
