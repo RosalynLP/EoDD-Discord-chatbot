@@ -1,3 +1,3 @@
-# test-chatbot
+# Discord Chatbot Challenge
 
-Example code for EoDD challenge on Discord chatbots
+Code examples for [EoDD challenge on Discord chatbots](https://plusplus.prewired.org/challenges/discord-chatbot/).
