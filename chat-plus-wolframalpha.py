@@ -1,11 +1,18 @@
 """
-Test version of Discord chatbot.
-Contributions:  Ewan Klein
+Demo version of Discord chatbot with Wolfram|Alpha 
+
+Sprint 1 of Emporium of Digital Delights, May 2021
+
+Team: Group the Boop
+
+Authors:        Andrew
+                Yousef
+
+Contributions:  Ewan Klein <ewan@raw-text.io>
                 Rosalyn Pearson
                 Helen Williams
-                Andrew
-                Yousef
-May 2021
+ 
+Last edited: 28 May 2021
 """
 
 import json
