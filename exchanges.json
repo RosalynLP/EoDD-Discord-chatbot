@@ -2,7 +2,8 @@
     "good": [
         "Glad to hear it!",
         "Great",
-        "😀"
+        "😀",
+        "That's so nice"
     ],
     "bad": [
         "Oh... What has got you feeling down?",
@@ -38,7 +39,7 @@
         "Me too.",
         "That's nice."
     ],
-    "hlo": [
+    "hello": [
         "Hello! How are you",
         "Hey there!",
         "Woah! You surprised me 😅. Anyways, How are you?"

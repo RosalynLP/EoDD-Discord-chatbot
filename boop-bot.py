@@ -28,8 +28,9 @@ def new_topic():
     """
     Start talking about a random topic.
     """
-    topics = ["wasps", "ice cream", "school", "Fortnite",
-              "burgers", "hotels", "getting a suntan"]
+    topics = ["wasps", "ice cream", "school", "Minecraft",
+              "burgers", "hotels", "getting a suntan","books",
+              "trapeze","scooters"]
     choice = random.choice(topics)  # choose a topic at random
     phrases = [f"So what do you think about {choice}?",
                f"Anyway, I really like {choice}!", f"That's really interesing but what about {choice}???"]
@@ -51,6 +52,7 @@ def respond(user_input):
             break
     return response
 
+response = await weather(WEATHER_ID, msg)
 
 @client.event
 async def on_ready():
